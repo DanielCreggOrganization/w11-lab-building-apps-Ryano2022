@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@capacitor/device": "^6.0.2",
-    "@ionic/pwa-elements": "^3.3.0"
-  }
-}
