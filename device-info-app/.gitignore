@@ -69,5 +69,9 @@ testem.log
 .DS_Store
 Thumbs.db
 
-# Android
-/android
+# Android (ignore entire build directory but keep config files)
+/android/*
+!/android/capacitor.config.json
+!/android/app/src/
+!/android/build.gradle
+!/android/gradle.properties
